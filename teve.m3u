@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,exotica
+http://195.181.168.196:2222/exotica/index.m3u8
+#EXTINF:-1,andprive HD
+http://195.181.168.196:2222/andprive/index.m3u8
+#EXTINF:-1,desiplus HD
+http://195.181.168.196:2222/desiplus/index.m3u8
+#EXTINF:-1,dorcel HD
+http://195.181.168.196:2222/dorcel/index.m3u8
+#EXTINF:-1,aljazeera
+http://195.181.168.196:2222/aljazeera/index.m3u8
+#EXTINF:-1,news24 HD
+http://195.181.168.196:2222/news24/index.m3u8
+#EXTINF:-1,playboy
+http://195.181.168.196:2222/playboy/index.m3u8
