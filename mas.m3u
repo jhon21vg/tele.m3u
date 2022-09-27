@@ -616,13 +616,6 @@ http://160.20.164.171:8001/play/a018
 
 http://160.20.164.171:8001/play/a079
 
-#EXTINF:-1 tvg-logo="https://imgur.com/TviWIyE.png" group-title="INFO",TECNOTV
-http://clubtv.link/redes.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="INFO",Telegram: @Tecnotv
-http://clubtv.link/redes.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/m9ieeUa.png" group-title="INFO",Redes Sociales
-http://clubtv.link/redes.mp4
-
 #EXTINF:-1 tvg-logo="https://imgur.com/rJFmf80.png" group-title="DISTRO TV",Euronews Español
 http://clubtv.link/iptv/sep27/distro.php?c=euronews-spa&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="DISTRO TV",Top Cine
