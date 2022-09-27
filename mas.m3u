@@ -432,6 +432,10 @@ http://160.20.164.171:8001/play/a013
 
 http://160.20.164.171:8001/play/a017
 
+#EXTINF:-1,Promatv
+
+https://vcp.myplaytv.com/promar/promar/chunklist_w1622018693.m3u8
+
 #EXTINF:-1,RCN - GUA
 
 http://160.20.164.171:8001/play/a035
