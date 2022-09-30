@@ -711,9 +711,6 @@ http://160.20.164.171:8001/play/a018
 http://160.20.164.171:8001/play/a079
 
 
-
-#EXTINF:-1, DESCARGA LISTAS M3U
-https://tecnomasterapp.tk/descarga/listasm3u.mp4
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/1
